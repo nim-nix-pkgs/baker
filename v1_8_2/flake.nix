@@ -11,6 +11,7 @@
   inputs.src-baker-v1_8_2.ref   = "refs/tags/v1.8.2";
   inputs.src-baker-v1_8_2.owner = "jasonrbriggs";
   inputs.src-baker-v1_8_2.repo  = "baker";
+  inputs.src-baker-v1_8_2.dir   = "";
   inputs.src-baker-v1_8_2.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
