@@ -11,7 +11,6 @@
   inputs.src-baker-master.ref   = "refs/heads/master";
   inputs.src-baker-master.owner = "jasonrbriggs";
   inputs.src-baker-master.repo  = "baker";
-  inputs.src-baker-master.dir   = "";
   inputs.src-baker-master.type  = "github";
   
   inputs."proton".owner = "nim-nix-pkgs";

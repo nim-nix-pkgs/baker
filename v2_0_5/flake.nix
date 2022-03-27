@@ -11,7 +11,6 @@
   inputs.src-baker-v2_0_5.ref   = "refs/tags/v2.0.5";
   inputs.src-baker-v2_0_5.owner = "jasonrbriggs";
   inputs.src-baker-v2_0_5.repo  = "baker";
-  inputs.src-baker-v2_0_5.dir   = "";
   inputs.src-baker-v2_0_5.type  = "github";
   
   inputs."proton".owner = "nim-nix-pkgs";
