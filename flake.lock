@@ -18,11 +18,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1656748548,
-        "narHash": "sha256-uiImEzR7h6k9HAo9QLrw/aEhdb0BDwFtA9CUk08T9Rw=",
+        "lastModified": 1657154704,
+        "narHash": "sha256-C6tujDLeEhEwlcUdRRQikaNWilqFblYr3punvUIswx0=",
         "owner": "nim-nix-pkgs",
         "repo": "baker",
-        "rev": "bc96255ae8eae733fe18bce4f9cb1a23e0c64a89",
+        "rev": "fa71867b4f2095ae41a3a52c4a3c9cf7681bb4c7",
         "type": "github"
       },
       "original": {
@@ -45,11 +45,11 @@
       },
       "locked": {
         "dir": "v1_6",
-        "lastModified": 1656748548,
-        "narHash": "sha256-uiImEzR7h6k9HAo9QLrw/aEhdb0BDwFtA9CUk08T9Rw=",
+        "lastModified": 1657154704,
+        "narHash": "sha256-C6tujDLeEhEwlcUdRRQikaNWilqFblYr3punvUIswx0=",
         "owner": "nim-nix-pkgs",
         "repo": "baker",
-        "rev": "bc96255ae8eae733fe18bce4f9cb1a23e0c64a89",
+        "rev": "fa71867b4f2095ae41a3a52c4a3c9cf7681bb4c7",
         "type": "github"
       },
       "original": {
@@ -72,11 +72,11 @@
       },
       "locked": {
         "dir": "v1_8",
-        "lastModified": 1656748548,
-        "narHash": "sha256-uiImEzR7h6k9HAo9QLrw/aEhdb0BDwFtA9CUk08T9Rw=",
+        "lastModified": 1657154704,
+        "narHash": "sha256-C6tujDLeEhEwlcUdRRQikaNWilqFblYr3punvUIswx0=",
         "owner": "nim-nix-pkgs",
         "repo": "baker",
-        "rev": "bc96255ae8eae733fe18bce4f9cb1a23e0c64a89",
+        "rev": "fa71867b4f2095ae41a3a52c4a3c9cf7681bb4c7",
         "type": "github"
       },
       "original": {
@@ -99,11 +99,11 @@
       },
       "locked": {
         "dir": "v1_8_2",
-        "lastModified": 1656748548,
-        "narHash": "sha256-uiImEzR7h6k9HAo9QLrw/aEhdb0BDwFtA9CUk08T9Rw=",
+        "lastModified": 1657154704,
+        "narHash": "sha256-C6tujDLeEhEwlcUdRRQikaNWilqFblYr3punvUIswx0=",
         "owner": "nim-nix-pkgs",
         "repo": "baker",
-        "rev": "bc96255ae8eae733fe18bce4f9cb1a23e0c64a89",
+        "rev": "fa71867b4f2095ae41a3a52c4a3c9cf7681bb4c7",
         "type": "github"
       },
       "original": {
@@ -126,11 +126,11 @@
       },
       "locked": {
         "dir": "v1_8_3",
-        "lastModified": 1656748548,
-        "narHash": "sha256-uiImEzR7h6k9HAo9QLrw/aEhdb0BDwFtA9CUk08T9Rw=",
+        "lastModified": 1657154704,
+        "narHash": "sha256-C6tujDLeEhEwlcUdRRQikaNWilqFblYr3punvUIswx0=",
         "owner": "nim-nix-pkgs",
         "repo": "baker",
-        "rev": "bc96255ae8eae733fe18bce4f9cb1a23e0c64a89",
+        "rev": "fa71867b4f2095ae41a3a52c4a3c9cf7681bb4c7",
         "type": "github"
       },
       "original": {
@@ -158,11 +158,11 @@
       },
       "locked": {
         "dir": "v2_0_0",
-        "lastModified": 1656748548,
-        "narHash": "sha256-uiImEzR7h6k9HAo9QLrw/aEhdb0BDwFtA9CUk08T9Rw=",
+        "lastModified": 1657154704,
+        "narHash": "sha256-C6tujDLeEhEwlcUdRRQikaNWilqFblYr3punvUIswx0=",
         "owner": "nim-nix-pkgs",
         "repo": "baker",
-        "rev": "bc96255ae8eae733fe18bce4f9cb1a23e0c64a89",
+        "rev": "fa71867b4f2095ae41a3a52c4a3c9cf7681bb4c7",
         "type": "github"
       },
       "original": {
@@ -190,11 +190,11 @@
       },
       "locked": {
         "dir": "v2_0_1",
-        "lastModified": 1656748548,
-        "narHash": "sha256-uiImEzR7h6k9HAo9QLrw/aEhdb0BDwFtA9CUk08T9Rw=",
+        "lastModified": 1657154704,
+        "narHash": "sha256-C6tujDLeEhEwlcUdRRQikaNWilqFblYr3punvUIswx0=",
         "owner": "nim-nix-pkgs",
         "repo": "baker",
-        "rev": "bc96255ae8eae733fe18bce4f9cb1a23e0c64a89",
+        "rev": "fa71867b4f2095ae41a3a52c4a3c9cf7681bb4c7",
         "type": "github"
       },
       "original": {
@@ -223,11 +223,11 @@
       },
       "locked": {
         "dir": "v2_0_2",
-        "lastModified": 1656748548,
-        "narHash": "sha256-uiImEzR7h6k9HAo9QLrw/aEhdb0BDwFtA9CUk08T9Rw=",
+        "lastModified": 1657154704,
+        "narHash": "sha256-C6tujDLeEhEwlcUdRRQikaNWilqFblYr3punvUIswx0=",
         "owner": "nim-nix-pkgs",
         "repo": "baker",
-        "rev": "bc96255ae8eae733fe18bce4f9cb1a23e0c64a89",
+        "rev": "fa71867b4f2095ae41a3a52c4a3c9cf7681bb4c7",
         "type": "github"
       },
       "original": {
@@ -256,11 +256,11 @@
       },
       "locked": {
         "dir": "v2_0_3",
-        "lastModified": 1656748548,
-        "narHash": "sha256-uiImEzR7h6k9HAo9QLrw/aEhdb0BDwFtA9CUk08T9Rw=",
+        "lastModified": 1657154704,
+        "narHash": "sha256-C6tujDLeEhEwlcUdRRQikaNWilqFblYr3punvUIswx0=",
         "owner": "nim-nix-pkgs",
         "repo": "baker",
-        "rev": "bc96255ae8eae733fe18bce4f9cb1a23e0c64a89",
+        "rev": "fa71867b4f2095ae41a3a52c4a3c9cf7681bb4c7",
         "type": "github"
       },
       "original": {
@@ -289,11 +289,11 @@
       },
       "locked": {
         "dir": "v2_0_4",
-        "lastModified": 1656748548,
-        "narHash": "sha256-uiImEzR7h6k9HAo9QLrw/aEhdb0BDwFtA9CUk08T9Rw=",
+        "lastModified": 1657154704,
+        "narHash": "sha256-C6tujDLeEhEwlcUdRRQikaNWilqFblYr3punvUIswx0=",
         "owner": "nim-nix-pkgs",
         "repo": "baker",
-        "rev": "bc96255ae8eae733fe18bce4f9cb1a23e0c64a89",
+        "rev": "fa71867b4f2095ae41a3a52c4a3c9cf7681bb4c7",
         "type": "github"
       },
       "original": {
@@ -322,11 +322,11 @@
       },
       "locked": {
         "dir": "v2_0_5",
-        "lastModified": 1656748548,
-        "narHash": "sha256-uiImEzR7h6k9HAo9QLrw/aEhdb0BDwFtA9CUk08T9Rw=",
+        "lastModified": 1657154704,
+        "narHash": "sha256-C6tujDLeEhEwlcUdRRQikaNWilqFblYr3punvUIswx0=",
         "owner": "nim-nix-pkgs",
         "repo": "baker",
-        "rev": "bc96255ae8eae733fe18bce4f9cb1a23e0c64a89",
+        "rev": "fa71867b4f2095ae41a3a52c4a3c9cf7681bb4c7",
         "type": "github"
       },
       "original": {
@@ -355,11 +355,11 @@
       },
       "locked": {
         "dir": "v2_0_7",
-        "lastModified": 1656748548,
-        "narHash": "sha256-uiImEzR7h6k9HAo9QLrw/aEhdb0BDwFtA9CUk08T9Rw=",
+        "lastModified": 1657154704,
+        "narHash": "sha256-C6tujDLeEhEwlcUdRRQikaNWilqFblYr3punvUIswx0=",
         "owner": "nim-nix-pkgs",
         "repo": "baker",
-        "rev": "bc96255ae8eae733fe18bce4f9cb1a23e0c64a89",
+        "rev": "fa71867b4f2095ae41a3a52c4a3c9cf7681bb4c7",
         "type": "github"
       },
       "original": {
@@ -388,11 +388,11 @@
       },
       "locked": {
         "dir": "v2_0_9",
-        "lastModified": 1656748548,
-        "narHash": "sha256-uiImEzR7h6k9HAo9QLrw/aEhdb0BDwFtA9CUk08T9Rw=",
+        "lastModified": 1657154704,
+        "narHash": "sha256-C6tujDLeEhEwlcUdRRQikaNWilqFblYr3punvUIswx0=",
         "owner": "nim-nix-pkgs",
         "repo": "baker",
-        "rev": "bc96255ae8eae733fe18bce4f9cb1a23e0c64a89",
+        "rev": "fa71867b4f2095ae41a3a52c4a3c9cf7681bb4c7",
         "type": "github"
       },
       "original": {
@@ -708,11 +708,11 @@
       },
       "locked": {
         "dir": "v0_8_5",
-        "lastModified": 1656746869,
-        "narHash": "sha256-okwfqo273uSJcvgpJDnfs2SGEzaXjFU8GDTCGd766yM=",
+        "lastModified": 1657153061,
+        "narHash": "sha256-tGZDRV0mT6x+vUf6pSF+mSFNcke5Dur6rnNxPcvdv2c=",
         "owner": "nim-nix-pkgs",
         "repo": "markdown",
-        "rev": "0e823b1d6655c13ea8f85089880f5feea7516b42",
+        "rev": "d16d77b473883819e87be3c22ef8e4bbd8eb80f1",
         "type": "github"
       },
       "original": {
@@ -969,11 +969,11 @@
       },
       "locked": {
         "dir": "v0_19_9",
-        "lastModified": 1656746900,
-        "narHash": "sha256-JFEc+i3LhWQqfZ70qZiqFkYAKI4wtWA4FkXy19wdSog=",
+        "lastModified": 1657153093,
+        "narHash": "sha256-T5lqIfGtGkjEh9YWVakwE6sIQaHiqF5iet3SpXOEKnk=",
         "owner": "nim-nix-pkgs",
         "repo": "ndb",
-        "rev": "c95c060d8805b495419e8dfd2d5b8ff5a756477d",
+        "rev": "e6680146b92ce50171813e30b1dc6acc6dfb2edd",
         "type": "github"
       },
       "original": {
@@ -1184,11 +1184,11 @@
       },
       "locked": {
         "dir": "v0_2_6",
-        "lastModified": 1656747033,
-        "narHash": "sha256-Imc+clL0r7OXX3m1pYisiauBg5gxvs6IlYb6J8tGPmo=",
+        "lastModified": 1657153220,
+        "narHash": "sha256-QAw8NH1I8mARtF25Bzs/oGvCMNJ/f1hrgbMVMx9uqOs=",
         "owner": "nim-nix-pkgs",
         "repo": "proton",
-        "rev": "1581e7dc08e8434a4a7d991241ea4142dac412b7",
+        "rev": "faeb29f548f8c248682066c55444ff3dc524490a",
         "type": "github"
       },
       "original": {
@@ -3163,11 +3163,11 @@
       },
       "locked": {
         "dir": "v0_5_4",
-        "lastModified": 1656747166,
-        "narHash": "sha256-gjMO+UE5dsZNwV05CaPu7kRT3NRQLSaZph0gjhsTt4U=",
+        "lastModified": 1657153349,
+        "narHash": "sha256-v166r/RBcdpqhCmNpZh2Zy5CTRYvg+eDfnTBpnaczVY=",
         "owner": "nim-nix-pkgs",
         "repo": "timezones",
-        "rev": "89a911208a222f5b63053ab68ff594b8821c3578",
+        "rev": "cc14f6efb0a65a130883cb9a0d4937868694cf15",
         "type": "github"
       },
       "original": {
@@ -3721,11 +3721,11 @@
       },
       "locked": {
         "dir": "0_3_1",
-        "lastModified": 1656747235,
-        "narHash": "sha256-HVu4HZ1iyX9RxV781gnbD+NQieIwwKnXB4m+BFwwwW4=",
+        "lastModified": 1657153414,
+        "narHash": "sha256-SOc48+GrHw6MXfzbN9DWVNS0eMIBVckqICdgcdr4WHQ=",
         "owner": "nim-nix-pkgs",
         "repo": "zip",
-        "rev": "82df8a1358388dbfb92e53044ed24d94c2146dfa",
+        "rev": "9427c91d795cec91b7aac8b6b33de721b77c1159",
         "type": "github"
       },
       "original": {
