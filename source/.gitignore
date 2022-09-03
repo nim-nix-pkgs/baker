@@ -1,9 +1,0 @@
-.idea
-MANIFEST
-build
-dist
-.DS_Store
-tmp
-baker
-*.out
-*.err
